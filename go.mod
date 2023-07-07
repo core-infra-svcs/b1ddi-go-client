@@ -11,4 +11,4 @@ require (
 	github.com/stretchr/testify v1.7.0
 )
 
-replace github.com/infobloxopen/b1ddi-go-client => github.com/core-infra-svcs/b1ddi-go-client v1.0.0
+replace github.com/infobloxopen/b1ddi-go-client => github.com/core-infra-svcs/b1ddi-go-client v1.0.2
